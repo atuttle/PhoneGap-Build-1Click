@@ -1,5 +1,4 @@
-#! /bin/sh 
-
+#! /bin/sh
 project="[PhoneGap Build project number]";
 username="[PhoneGap Build username]";
 password="[PhoneGap Build password]";
